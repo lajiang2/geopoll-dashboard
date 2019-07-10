@@ -1,4 +1,10 @@
 .DS_STORE
-data/setup/*
-data/upToMay2019/*
-data/update/*
+data/setup/*.csv
+data/setup/*.xlsx
+data/upToMay2019/*.csv
+data/upToMay2019/*.xlsx
+data/upToMay2019/output
+data/update/*.csv
+data/update/*.xlsx
+data/update/output
+guide/
